@@ -1,2 +1,2 @@
-# trading
+# Trading
 Trading algorithm projects
